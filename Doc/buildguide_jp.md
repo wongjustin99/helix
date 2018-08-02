@@ -1,16 +1,16 @@
-# Helixベータ ビルドガイド
+# Helix Beta Build Guide (Google Translated)
 
 
-## 部品
+## Parts
 
-下記は1つ作るのに必要な部品の数です。両手分を作るには2セット必要です。
+Below is the number of parts needed to make one. Two sets are necessary to make two hands.
 
-| 名前 | 数 | 備考 |
+| Name | Number | Remarks |
 | ---- | ---- | --- |
-| PCB | 1枚 | |
-| Pro Micro | 1個 | |
-| TRRSジャック | 1個 | |
-| タクトスイッチ | 1個 | |
+| PCB | 1 sheet | |
+| Pro Micro | 1 | |
+| TRRS jack | 1 | |
+| Tactile switch | 1 | |
 | スプリングピンヘッダ 12P | 2個 | 通常のピンヘッダでも可 |
 | プレート（アクリルかステンレス） | 1セット| |
 | 保護プレート | 1枚 | |
